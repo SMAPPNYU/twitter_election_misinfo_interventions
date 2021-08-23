@@ -7,7 +7,10 @@ We analyze the spread of Donald Trump’s tweets that were flagged by Twitter us
 ## BibTex Citation
 Please cite the following:
 ```
-@article{2021SandersonTwitterInterventions, title={Twitter flagged Donald Trump's tweets with election misinformation. They continued to spread both on and off the platform.}, author={Sanderson, Zeve and Brown, Megan A. and Bonneau, Richard and Nagler, Jonathan and Tucker, Joshua A.}, journal={Harvard Kennedy School Misinformation Review}, year={2021}}
+@article{2021SandersonTwitterInterventions, title={Twitter flagged Donald Trump's tweets with election misinformation.
+They continued to spread both on and off the platform.}, author={Sanderson, Zeve and Brown, Megan A. 
+and Bonneau, Richard and Nagler, Jonathan and Tucker, Joshua A.}, journal={Harvard Kennedy School
+Misinformation Review}, year={2021}}
 ```
 
 ## Repository Contents
